@@ -1,0 +1,8 @@
+D:\Asaed\USB Guard\USB Guard.pdb
+D:\Asaed\USB Guard\USB Guard.dll.config
+D:\Asaed\USB Guard\D3DCompiler_47_cor3.dll
+D:\Asaed\USB Guard\PenImc_cor3.dll
+D:\Asaed\USB Guard\PresentationNative_cor3.dll
+D:\Asaed\USB Guard\vcruntime140_cor3.dll
+D:\Asaed\USB Guard\wpfgfx_cor3.dll
+D:\Asaed\USB Guard\USB Guard.exe

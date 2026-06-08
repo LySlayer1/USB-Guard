@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "97A/eqonunEBPlQJzmIZBSYe+EwXsEAgvcPvfhdoV5WajDUT7BDpFSM0qdtd0+271FGAjokeAaQG5Yvi8s97vw==",
+  "success": true,
+  "projectFilePath": "D:\\USB Guard\\USB Guard\\USB Guard\\USB Guard.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asaed_Rock\\.nuget\\packages\\system.codedom\\10.0.8\\system.codedom.10.0.8.nupkg.sha512",
+    "C:\\Users\\Asaed_Rock\\.nuget\\packages\\system.management\\10.0.8\\system.management.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

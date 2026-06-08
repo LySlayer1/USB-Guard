@@ -1,0 +1,7 @@
+C:\Users\Asaed_Rock\Desktop\smart usb\USB Guard.exe
+C:\Users\Asaed_Rock\Desktop\smart usb\USB Guard.dll
+C:\Users\Asaed_Rock\Desktop\smart usb\USB Guard.deps.json
+C:\Users\Asaed_Rock\Desktop\smart usb\USB Guard.runtimeconfig.json
+C:\Users\Asaed_Rock\Desktop\smart usb\USB Guard.pdb
+C:\Users\Asaed_Rock\Desktop\smart usb\System.CodeDom.dll
+C:\Users\Asaed_Rock\Desktop\smart usb\System.Management.dll

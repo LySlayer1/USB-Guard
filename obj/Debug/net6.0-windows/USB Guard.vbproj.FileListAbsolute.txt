@@ -1,0 +1,20 @@
+D:\USB Guard\USB Guard\USB Guard\bin\Debug\net6.0-windows\USB Guard.exe
+D:\USB Guard\USB Guard\USB Guard\bin\Debug\net6.0-windows\USB Guard.deps.json
+D:\USB Guard\USB Guard\USB Guard\bin\Debug\net6.0-windows\USB Guard.runtimeconfig.json
+D:\USB Guard\USB Guard\USB Guard\bin\Debug\net6.0-windows\USB Guard.dll
+D:\USB Guard\USB Guard\USB Guard\bin\Debug\net6.0-windows\USB Guard.pdb
+D:\USB Guard\USB Guard\USB Guard\obj\Debug\net6.0-windows\USB Guard.vbproj.AssemblyReference.cache
+D:\USB Guard\USB Guard\USB Guard\obj\Debug\net6.0-windows\USB_Guard.Form1.resources
+D:\USB Guard\USB Guard\USB Guard\obj\Debug\net6.0-windows\USB Guard.vbproj.GenerateResource.cache
+D:\USB Guard\USB Guard\USB Guard\obj\Debug\net6.0-windows\USB Guard.GeneratedMSBuildEditorConfig.editorconfig
+D:\USB Guard\USB Guard\USB Guard\obj\Debug\net6.0-windows\USB Guard.AssemblyInfoInputs.cache
+D:\USB Guard\USB Guard\USB Guard\obj\Debug\net6.0-windows\USB Guard.AssemblyInfo.vb
+D:\USB Guard\USB Guard\USB Guard\obj\Debug\net6.0-windows\USB Guard.vbproj.CoreCompileInputs.cache
+D:\USB Guard\USB Guard\USB Guard\obj\Debug\net6.0-windows\USB Guard.dll
+D:\USB Guard\USB Guard\USB Guard\obj\Debug\net6.0-windows\refint\USB Guard.dll
+D:\USB Guard\USB Guard\USB Guard\obj\Debug\net6.0-windows\USB Guard.pdb
+D:\USB Guard\USB Guard\USB Guard\obj\Debug\net6.0-windows\USB Guard.genruntimeconfig.cache
+D:\USB Guard\USB Guard\USB Guard\obj\Debug\net6.0-windows\ref\USB Guard.dll
+D:\USB Guard\USB Guard\USB Guard\bin\Debug\net6.0-windows\System.CodeDom.dll
+D:\USB Guard\USB Guard\USB Guard\bin\Debug\net6.0-windows\System.Management.dll
+D:\USB Guard\USB Guard\USB Guard\obj\Debug\net6.0-windows\USB Guard.vbproj.CopyComplete

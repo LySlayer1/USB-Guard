@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pv9Vq3Xe6d+WMgYTkxyADufUBQdVkMgKJaSt8GOLhPWNTsP1CW376VRMYUHUUUkz0Q58pKXCsIKuMb+HJ6+aww==",
+  "success": true,
+  "projectFilePath": "D:\\USB Guard\\USB Guard\\USB Guard\\USB Guard.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asaed_Rock\\.nuget\\packages\\system.codedom\\10.0.8\\system.codedom.10.0.8.nupkg.sha512",
+    "C:\\Users\\Asaed_Rock\\.nuget\\packages\\system.management\\10.0.8\\system.management.10.0.8.nupkg.sha512",
+    "C:\\Users\\Asaed_Rock\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.5\\microsoft.netcore.app.runtime.win-x64.6.0.5.nupkg.sha512",
+    "C:\\Users\\Asaed_Rock\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.5.nupkg.sha512",
+    "C:\\Users\\Asaed_Rock\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.5\\microsoft.aspnetcore.app.runtime.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\Asaed_Rock\Desktop\سةشقف\USB Guard.pdb
+C:\Users\Asaed_Rock\Desktop\سةشقف\D3DCompiler_47_cor3.dll
+C:\Users\Asaed_Rock\Desktop\سةشقف\PenImc_cor3.dll
+C:\Users\Asaed_Rock\Desktop\سةشقف\PresentationNative_cor3.dll
+C:\Users\Asaed_Rock\Desktop\سةشقف\vcruntime140_cor3.dll
+C:\Users\Asaed_Rock\Desktop\سةشقف\wpfgfx_cor3.dll
+C:\Users\Asaed_Rock\Desktop\سةشقف\USB Guard.exe
